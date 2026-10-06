@@ -1,0 +1,12 @@
+{
+  "name": "executor-integrations",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local stdio MCP adapters registered as Executor integrations",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
